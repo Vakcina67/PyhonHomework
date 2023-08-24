@@ -1,0 +1,2 @@
+# PyhonHomework
+for seminars
